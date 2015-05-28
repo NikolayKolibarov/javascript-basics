@@ -1,0 +1,14 @@
+body {
+    margin: 0;
+    padding: 0;
+}
+
+table, tr, td {
+    border: 1px solid black;
+}
+
+table {
+    margin: 0 auto;
+    width: 500px;
+    height: 500px;
+}
